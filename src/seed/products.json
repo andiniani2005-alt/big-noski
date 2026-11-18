@@ -1,0 +1,6 @@
+[{"id":1,"name":"Jus Alpukat","category":"Jus","price":8000},{"id":2,"name":"Jus Jeruk","category":"Jus","price":8000},
+{"id":3,"name":"Jus Mangga","category":"Jus","price":8000},{"id":4,"name":"Jus Terong Belanda","category":"Jus","price":8000},
+{"id":5,"name":"Jus Buah Naga","category":"Jus","price":8000},{"id":6,"name":"Jus Nanas","category":"Jus","price":8000},
+{"id":7,"name":"Pop Ice","category":"Pop Ice","price":5000},{"id":8,"name":"Cappuccino","category":"Minuman Seduh","price":7000},
+{"id":9,"name":"Good Day","category":"Minuman Seduh","price":7000},{"id":10,"name":"Salad Buah Kecil","category":"Salad Buah","price":16000},
+{"id":11,"name":"Salad Buah Besar","category":"Salad Buah","price":26000},{"id":12,"name":"Sup Buah","category":"Sup Buah","price":16000}]

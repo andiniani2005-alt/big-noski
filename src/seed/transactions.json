@@ -1,0 +1,2 @@
+[{"id":1,"date":"2026-11-12T10:15:00","cashier":"Pemilik Big Noski","payment":"Tunai","total":24000,"items":[{"productId":1,"name":"Jus Alpukat","price":8000,"qty":1},{"productId":10,"name":"Salad Buah Kecil","price":16000,"qty":1}]},
+{"id":2,"date":"2026-11-12T14:40:00","cashier":"Pemilik Big Noski","payment":"Transfer","total":26000,"items":[{"productId":11,"name":"Salad Buah Besar","price":26000,"qty":1}]}]
